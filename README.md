@@ -1,4 +1,4 @@
-- 👋 Hi Dear visiters, I’m Prashant Mungase
+- 👋 Hi Dear visiters, I’m Prashant Mungase, thank you for stopping by
 - 👀 I’m interested in Business Development & Business Analysis, to be honest more in the later one.
 - 🌱 I’m currently working as a Buisness Analyst 
 - 📫 How to reach me prashantmungase.biz@gmail.com / www.linkedin.com/in/
