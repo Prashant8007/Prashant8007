@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Prashant Mungse
-- 👀 I’m interested in Business Development & Business Analysis
-- 🌱 I’m currently learning Buisness Analysis 
-- 📫 How to reach me prashantmungse.biz@gmail.com / www.linkedin.com/in/
-prashant-mungse
+- 👋 Hi Dear visiters, I’m Prashant Mungase
+- 👀 I’m interested in Business Development & Business Analysis, to be honest more in the later one.
+- 🌱 I’m currently working as a Buisness Analyst 
+- 📫 How to reach me prashantmungase.biz@gmail.com / www.linkedin.com/in/
+prashant-mungase-analyst
 
 
 <!---
